@@ -1,0 +1,113 @@
+record_id,redcap_survey_identifier,scwg_workshop_evaluation_questionnaire_timestamp,date,workshop_may_17,workshop_may_18,workshop_may_19,workshop_may_24,workshop_may_25,workshop_may_26,workshop_may_27,workshop_1,workshop_2,workshop_3,workshop_5,workshop_6,workshop_7,workshop_8,amount,difficulty,pace,time,exercises,best,improve,job_title,job_title_other,job_description,job_description_other,job_comp_exper,source___1,source___2,source___3,source___4,source___5,source_other,comments,scwg_workshop_evaluation_questionnaire_complete
+1,,"2016-05-16 21:49:30",1,1,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"test delete","test delete",7,"test delete",8,"test delete",4,0,1,0,0,1,"test delete","test delete",2
+2,,"2016-05-17 10:12:33",1,1,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"Jon (and Ricardo) were super knowledgable and approachable. They each had a real knack for explaining computer-related concepts. Great instructors!","This is a tough session to run, as participants come with varying degrees of experience. If there were 'beginner' and 'intermediate' sessions, that might increase the relevance of topics discussed for each person in the room. That said, there were only 4 or 5 people in this session, so splitting such a small group may not be feasible.",2,,8,"Systematic reviews",1,0,0,0,0,1,"New hire research orientation",,2
+3,,"2016-05-17 09:57:38",1,1,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,7,"Research Coordinator",5,,5,0,0,1,0,0,,,2
+4,,"2016-05-17 11:16:05",1,2,,,,,,,5,5,5,3,4,5,5,0,-1,0,0,0,,,2,,2,,0,0,0,0,1,0,,,2
+5,,"2016-05-17 11:16:02",1,2,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,5,,5,,4,0,0,0,0,0,,,2
+6,,"2016-05-17 11:19:57",1,2,,,,,,,5,5,5,5,5,5,5,-1,0,0,0,0,"Learning through doing is great! Especially when it is made into a rewarding experience like a game! ","I think we could go into more depth of content or translate what these skills mean in programming program like when we would use coding such as this in programs like python. Overall this was a great learning experience!",2,,2,,0,0,0,0,1,0,,,2
+7,,"2016-05-17 11:22:11",1,2,,,,,,,5,5,5,4,5,5,5,0,0,0,0,0,,,1,,4,,0,0,0,0,1,0,,,2
+8,,"2016-05-17 11:42:51",1,2,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,7,"Research Coordinator",5,,5,0,0,1,0,0,,,2
+9,,"2016-05-17 11:44:49",1,2,,,,,,,4,4,3,4,4,5,5,0,0,0,0,-1,"game was good way to learn, knowledgable instructors","talk a bit slower... maybe spend a bit more time understanding background before jumping in (I don't really know much about programming..)",2,,2,,0,0,0,1,1,0,,,2
+10,,"2016-05-17 11:53:06",1,2,,,,,,,4,5,4,4,3,4,3,-1,-1,-1,1,-1,"Helpful tool introduced. Will continue to use codecombat to improve my coding skills. ","Include some theory--course was set-up so theory was extra, rather than the basis for playing the game. The examples at the end were helpful.",,,,,1,0,1,0,1,0,,,2
+11,,"2016-05-17 11:55:35",1,2,,,,,,,4,4,4,4,4,4,4,-1,-1,0,0,0,"Introduced me to programming.","More content.",,,,,,0,0,0,0,0,,,2
+12,,"2016-05-17 14:01:27",1,3,,,,,,,5,5,5,3,5,5,5,0,0,0,0,0,"The helpers were great!!","not a thing...",7,"Program Coordinator",1,,0,1,0,0,0,0,,"no thanks...this was great!",2
+13,,"2016-05-17 14:01:11",1,3,,,,,,,4,4,4,3,3,4,4,0,0,0,0,0,,,7,"Undergraduate student",2,,0,0,0,0,1,0,,,2
+14,,"2016-05-17 14:00:37",1,3,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,5,,5,,1,0,0,0,0,0,,,2
+15,,"2016-05-17 14:02:22",1,3,,,,,,,4,4,4,4,4,4,4,0,0,0,0,0,informative,"more lecture time",4,,3,,5,1,0,0,0,0,,"JavaScript workshop",2
+16,,"2016-05-17 14:20:52",1,3,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,"please have the programs needed for all workshops already loaded on all loaner computers so that if for some reason a persons laptop doesn't work and they need to use a loaner, they can get going right away.  :-) ",7,"Research Coordinator",5,,5,0,0,1,0,0,,,2
+17,,"2016-05-17 14:25:34",1,3,,,,,,,4,5,4,4,4,4,5,0,0,0,0,0,"everyone willing to help ","maybe more instruction time instead of reading ",7,Student,5,,0,0,0,0,1,0,,,2
+18,,"2016-05-17 16:56:18",1,4,,,,,,,5,5,5,4,4,5,5,0,0,0,0,0,"Very clear talking through what to do, with realistic example. ",,2,,2,,2,0,0,0,1,0,,,2
+19,,"2016-05-17 17:02:17",1,4,,,,,,,4,3,3,3,4,4,4,0,0,1,0,0,,,7,"Undergraduate student",2,,0,0,0,0,1,0,,,2
+20,,"2016-05-18 11:32:31",2,,1,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"everything. this content should be mandatory for research orientation.",,7,"Research Coordinator",5,,5,0,0,1,0,0,,,2
+21,,"2016-05-18 11:28:41",2,,1,,,,,,4,4,4,3,4,5,5,0,0,0,0,0,,,2,,,,0,0,0,0,1,0,,,2
+22,,"2016-05-18 11:32:01",2,,1,,,,,,5,5,5,5,5,5,5,0,0,0,1,0,"This is super useful and something we don't do enough of.","Talking about file hierarchy    i.e.     CT - 3T - dx - HC - whole-brain - ...   or   whole-brain - dx - HC - 3T - CT ...    Is there some sort of logic that works best for a computer to understand?  ",5,,5,,3,0,1,0,1,0,,"Great job on this one!",2
+23,,"2016-05-18 11:27:52",2,,1,,,,,,4,4,4,4,4,5,4,0,0,0,0,0,"Introduced me to data management.",N/A,,,,,,0,0,0,0,0,,,2
+24,,"2016-05-18 11:29:30",2,,1,,,,,,3,1,2,3,4,5,5,1,1,1,-1,-1,,"It was very hard for real beginners who have no computing skills to understand.  ",7,Student,,,0,0,0,0,1,0,,,2
+25,,"2016-05-18 11:28:37",2,,1,,,,,,4,5,4,4,4,4,4,0,0,0,0,0,,,1,,5,,1,0,0,0,1,0,,,2
+26,,"2016-05-18 11:30:23",2,,1,,,,,,5,5,5,5,5,5,5,-1,-1,-1,1,1,"The tips on how to document your data as you do ongoing experiments using the history command etc. Also the information on how to organize file systems without running into the 'final', 'final final' etc. issue","A little bit too much time was given for discussion sometimes",1,,,,,0,0,0,1,0,,,2
+27,,"2016-05-18 11:30:19",2,,1,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"Good pace and easy to follow discussion, not too technical or too superficial","Maybe an example/toy folder to download and play with in the class to illustrate ideas",4,,3,,3,0,0,0,1,0,,,2
+28,,"[not completed]",1,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+29,,"2016-05-18 11:30:00",2,,1,,,,,,5,3,5,5,5,5,5,-1,1,0,0,0,"The illustrations and tips on how to organize data from scratch was really helpful ","Maybe go back to the very basics to start...ex, what is readme, python other programs and how to access them/ organize data within them...I'm from a VERY basic data background. ",2,,2,,0,0,0,0,1,0,,,2
+30,,"2016-05-18 11:30:20",2,,1,,,,,,5,4,5,5,5,5,5,0,0,0,0,0,,,6,,2,,5,0,0,1,0,0,,,2
+31,,"2016-05-18 11:31:43",2,,1,,,,,,5,4,5,5,5,5,5,0,0,0,0,-1,,,4,,4,,0,0,0,0,1,0,,,2
+32,,"2016-05-18 14:17:47",2,,2,,,,,,4,2,4,4,4,4,5,0,0,0,0,0,"really necessary for my job","he did a lot of stuff that wasn't in the documentation and he went too quickly.",7,"Research Coordinator",5,,5,0,0,1,0,0,,,2
+33,,"2016-05-18 14:42:18",2,,2,,,,,,3,3,3,3,3,4,4,,,,,,,,,,,,0,0,0,0,0,0,,,2
+34,,"2016-05-18 14:42:54",2,,2,,,,,,4,4,4,4,4,4,4,-1,-1,0,0,0,,,1,,5,,1,0,0,0,1,0,,,2
+35,,"2016-05-18 14:43:06",2,,2,,,,,,5,5,5,5,5,5,5,-1,0,-1,0,0,"Easy to follow and good use of examples/ exercises","Greater variety of topics ... this just focused on for loops more or less",4,,3,,3,0,0,0,1,0,,,2
+36,,"2016-05-18 14:42:49",2,,2,,,,,,5,5,4,4,4,5,5,0,0,,0,0,,,6,,2,,5,0,0,1,0,0,,,2
+37,,"2016-05-18 14:44:32",2,,2,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"Good introductory workshop. Thoroughly enjoyed it, helped me understand bash scripting a little better.","Since it was introductory, I thought everything was pretty good.",3,,2,,2,0,0,0,1,0,,,2
+38,,"2016-05-18 14:44:41",2,,2,,,,,,4,4,4,3,4,4,4,0,0,0,0,0,,,4,,4,,0,0,0,0,1,0,,,2
+39,,"[not completed]",2,,2,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+40,,"2016-05-18 14:44:53",2,,2,,,,,,4,4,4,5,4,4,5,0,0,0,0,0,"good content ","introduction to more commands that might be useful in linux",7,student,5,,0,0,0,0,1,0,,,2
+41,,"2016-05-18 16:27:24",2,,3,,,,,,4,4,4,3,3,5,5,0,0,0,0,0,,,5,,5,,2,0,0,0,1,0,,,2
+42,,"2016-05-18 16:27:15",2,,3,,,,,,5,5,5,5,4,5,5,0,0,0,0,0,"Introduced me to concepts of git/github.",N/A,,,,,0,0,0,0,0,0,,"Thanks a bunch!",2
+43,,"2016-05-18 16:27:29",2,,3,,,,,,4,3,4,4,4,4,4,0,0,0,0,0,,,6,,2,,5,0,0,1,0,0,,,2
+44,,"2016-05-18 16:28:46",2,,3,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"Very helpful at untangling some things about git, good place to ask questions and work slowly/interactively","This was a really good workshop. I think it was a good level of detail, any more could be info overload so I'm not sure what could be improved",4,,3,,3,0,0,0,1,0,,,2
+45,,"2016-05-18 16:28:03",2,,3,,,,,,5,4,4,4,4,5,5,0,0,0,0,0,,,3,,2,,2,0,0,0,1,0,,,2
+46,,"2016-05-19 11:53:22",3,,,1,,,,,4,3,4,5,5,4,3,0,0,1,0,-1,"Learning shortcuts was super useful!","The problem is that not everything works for everyone, which is frustrating, but you can't foresee everything, so I'm not sure how to fix this.  ",5,,5,,2,0,0,0,1,0,,,2
+47,,"[not completed]",3,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+48,,"[not completed]",3,,,1,,,,,4,4,4,4,4,5,5,0,0,0,0,0,,,4,,,,0,0,0,0,1,0,,,0
+49,,"2016-05-19 11:59:40",3,,,1,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"Great tools for my everyday work!","It might be beneficial to hold further sessions to teach Excel skills in a more in depth way, however it was excellent and i loved it! ",7,"Project Coordinator",8,"Project/Program Coordination",2,0,0,0,1,0,,"Great job!",2
+50,,"2016-05-19 11:59:40",3,,,1,,,,,3,5,5,4,4,5,5,0,-1,0,0,0,"It was well done, thank you!",,1,,1,,1,0,0,0,1,0,,,2
+51,,"2016-05-19 12:20:20",3,,,1,,,,,4,3,4,4,4,4,4,0,0,0,0,0,"I found this workshop very useful.","The delivery of instructions - both in terms of clarity and volume - could perhaps be improved, but this is just a suggestion. The workshop was very good.",7,"Research Services",1,,0,0,0,0,1,0,,,2
+52,,"2016-05-19 12:44:28",3,,,1,,,,,5,5,5,5,5,5,5,0,0,0,-1,0,"really engaging presenters, both knew a lot and were able to respond to hard questions    i thought the 'examples for psych research' was very clever.","it's hard b/c people had different skillsets in room - i could see some people wondering when we'd move on, but other people needed and requested things repeated multiple times.     i felt you did a good job at balancing the needs of the group, and picked up lots of tricks! thanks!    should make workshop 1/2 day so can get through everything.",4,,2,,2,1,0,0,0,0,,"important to have workshops like spreadsheets in addition to more advanced topics like programming. thanks!",2
+53,,"2016-05-19 14:11:40",3,,,1,,,,,5,4,5,5,5,5,5,0,0,0,0,0,"Good job","Maybe have split screen with zoom so can see what you're typing better ",2,,2,,0,0,1,0,1,0,,Thankyou,2
+54,,"2016-05-19 14:48:12",3,,,3,,,,,5,5,5,4,5,5,5,0,0,0,0,0,"Very useful information!  Interesting material and easy to follow examples.","More students!",4,,5,,4,0,0,0,0,1,"IMS department email","This covered everything I thought it would!",2
+55,,"2016-05-19 14:47:18",3,,,3,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"great job Brice","let's promote this more",2,,5,,5,0,0,0,1,0,,,2
+56,,"2016-05-19 18:55:06",3,,,4,,,,,2,2,1,3,3,3,4,-1,-1,-1,-1,-1,"Absolutely  not organized instructor ","Please ask the instructor to be prepared, and have some managing skills before teaching (data) management ",8,,2,,4,0,0,1,0,0,,"most of workshops were good, but today i wasted my time! sorry !!!",2
+57,,"[not completed]",1,4,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+58,,"[not completed]",4,,,,1,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+59,,"2016-05-24 12:02:15",4,,,,1,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,6,,4,,5,0,1,0,0,0,,,2
+60,,"2016-05-24 12:01:59",4,,,,1,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,1,,1,,0,0,0,1,1,0,,,2
+61,,"2016-05-24 12:02:50",4,,,,1,,,,5,4,4,4,4,5,5,0,0,0,0,-1,"good intro to R","explain what all of the codes mean as opposed to just copying",2,,2,,0,0,0,1,1,0,,,2
+62,,"2016-05-24 12:03:07",4,,,,1,,,,5,5,4,4,5,5,5,-1,0,-1,1,1,,,7,,8,,0,0,0,0,1,0,,,2
+63,,"2016-05-24 12:03:25",1,4,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,2,,2,,3,0,0,0,1,0,,,2
+64,,"[not completed]",4,,,,1,,,,4,4,4,4,4,4,4,,,,,,,,,,,,,0,0,0,0,0,,,0
+65,,"2016-05-24 12:03:57",4,,,,1,,,,,5,5,4,4,5,5,0,0,0,0,0,,,7,,1,,0,0,0,0,1,0,,,2
+66,,"2016-05-24 12:05:01",4,,,,1,,,,5,5,5,5,5,5,5,0,0,0,0,0,Great!,,5,,2,,5,0,0,0,1,0,,,2
+67,,"2016-05-24 12:07:09",4,,,,1,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,2
+68,,"2016-05-24 12:35:18",4,,,,1,,,,5,5,5,5,5,5,5,0,0,0,0,0,"really easy to follow",,8,,5,,5,0,0,1,0,0,,,2
+69,,"2016-05-24 14:54:14",4,,,,2,,,,4,4,4,4,4,5,5,0,0,0,-1,-1,,"Either put in a bit less information or schedule more time so that it isn't necessary to speed up at the end. I understood and was able to follow along well until the end, when things were moving a bit too fast.",5,,5,,2,0,0,0,1,0,,,2
+70,,"2016-05-24 14:55:08",4,,,,2,,,,5,4,5,4,5,5,5,0,0,0,0,0,,"Toward the end of the workshop the pace got a bit too fast to keep up with but otherwise was very easy to follow along with.",7,"Research Trainee",3,,0,0,0,0,1,0,,,2
+71,,"2016-05-24 14:54:28",4,,,,2,,,,5,4,5,5,5,5,5,1,1,1,-1,-1,,,6,,4,,5,0,1,0,0,0,,,2
+72,,"2016-05-24 14:56:18",4,,,,2,,,,4,5,5,3,4,5,5,0,0,0,0,-1,,,6,,8,"methods, analysis, design",5,0,0,0,1,0,,"space was a little tight.",2
+73,,"2016-05-24 14:55:54",,,,,,,,,4,4,3,4,3,4,5,0,0,0,0,0,,,8,,8,research,5,0,0,0,1,0,,,2
+74,,"2016-05-24 14:55:37",4,,,,2,,,,4,3,3,5,3,4,4,1,0,1,-1,-1,,,4,,2,,1,0,0,0,0,1,Supervisor,,2
+75,,"[not completed]",4,,,,2,,,,5,2,4,4,4,5,4,0,0,1,0,-1,"I got lost in the beginning and it took a while to catch up. My R package was not up-to-date so I could not install one of the packages.","Make sure everyone is caught up at various sections before moving on.",,,,,,0,0,0,0,0,,,0
+76,,"2016-05-24 14:55:37",4,,,,2,,,,3,4,4,4,4,4,4,1,0,1,-1,-1,,,7,"Undergrad student",2,,0,0,0,0,1,0,,,2
+77,,"2016-05-24 14:55:09",4,,,,2,,,,4,4,4,4,4,4,4,1,0,0,-1,0,,,1,,5,,1,0,0,0,1,0,,,2
+78,,"2016-05-24 15:26:32",1,4,,,,,,,5,5,5,5,5,5,5,0,0,0,0,0,"good introduction, great pace","book a room with more table space and more power outlets",8,,7,,5,0,0,0,1,0,,,2
+79,,"2016-05-24 15:29:46",4,,,,2,,,,4,3,4,4,2,4,4,1,0,1,-1,-1,"i got to learn r's graphing functions","there was too much stuff crammed into the workshop and the end felt very rushed. i would have preferred to focus on learning less stuff and instead have an opportunity to spend more time on writing code (instead of just running the code that the workshop instructor had to download off the workshop site)",8,,7,,5,0,0,0,1,0,,,2
+80,,"2016-05-24 16:53:39",4,,,,3,,,,4,5,4,4,5,5,5,0,0,0,-1,0,"Learning to use the skip logic",,7,"Research Trainee",3,,0,0,0,0,1,0,,,2
+81,,"2016-05-24 16:53:32",4,,,,3,,,,5,5,5,5,4,5,5,0,0,1,0,0,,,8,,8,research,5,0,0,0,0,1,"current Checkbox user - told we need to switch",,2
+82,,"2016-05-24 16:53:49",4,,,,3,,,,5,5,5,5,5,5,5,0,-1,-1,0,0,,,6,,2,,1,1,0,0,0,0,,,2
+83,,"2016-05-24 16:55:09",4,,,,3,,,,4,4,4,4,4,5,5,0,0,0,0,0,,"Make it clearer in the document sent before the workshop that laptops will not be provided, and that if possible atendees should bring one. Otherwise they will not be able to ",8,,2,,3,0,0,0,1,0,,,2
+84,,"2016-05-24 16:55:56",4,,,,3,,,,5,4,5,5,5,5,5,0,0,1,-1,-1,"Clear and helpful assistants!","Check registration so that participants have enough laptops so they don't have to share. But I like to share so no worries!",2,,2,,1,0,0,0,1,0,,,2
+85,,"[not completed]",4,,,,3,,,,4,4,4,5,4,4,5,,,,,,,,,,,,,0,0,0,0,0,,,0
+86,,"2016-05-24 16:53:41",4,,,,3,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,4,,2,,5,0,0,1,0,0,,,2
+87,,"2016-05-24 16:53:55",4,,,,3,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,6,,4,,5,0,1,0,0,0,,,2
+88,,"2016-05-24 16:56:05",4,,,,3,,,,5,5,5,5,5,5,5,0,0,0,0,0,,,5,,2,,5,0,0,0,1,0,,,2
+89,,"2016-05-24 18:20:04",4,,,,2,,,,3,1,2,3,3,5,4,1,1,1,-1,-1,,"Slow down, make sure everyone is following and explain things thoroughly. Many of us were just pressing 'run' without fully understanding why each command was important. I understand this was an 'advanced' class, but I believe some extra support and some more explanation would make the learning experience 100x better.",1,,4,,0,0,0,0,1,0,,,2
+90,,"2016-05-25 10:56:25",5,,,,,1,,,5,5,5,5,5,5,5,0,0,0,0,0,,,,,,,,0,0,0,0,0,,,2
+91,,"2016-05-25 10:59:07",5,,,,,1,,,5,5,5,5,5,5,5,0,0,0,0,0,"online materials to follow at your own pace beyond workshop","Hard to tailor the workshop to specific analytic/ plotting needs",6,,4,,5,0,0,0,1,0,,,2
+92,,"2016-05-25 11:58:27",5,,,,,2,,,3,2,4,2,3,5,3,0,1,1,0,0,,,5,,5,,2,0,0,0,1,0,,"I don't understand this topic at all. David is very knowledgeable but I don't get it. I tried following along and things weren't working. I'm sure the problem is me and now the workshop instructors though!",2
+93,,"2016-05-25 14:49:21",5,,,,,3,,,4,4,3,5,4,5,5,0,0,-1,1,1,"Learning more about the PBS directives and qbatch","Spending more time on showing real world examples of how best to set the PBS directives. Or walking through an example of how to estimate the walltime, ppn, and number of nodes needed etc.",7,,3,,0,0,0,0,1,0,,,2
+94,,"2016-05-25 14:47:48",5,,,,,3,,,4,4,4,4,4,5,5,0,0,0,0,0,,,6,,2,,5,0,0,1,0,0,,,2
+95,,"2016-05-25 16:52:57",5,,,,,4,,,5,5,5,5,5,5,5,0,-1,0,0,0,"structure of how it was taught","great workshop, but some things were really basic and it would be great to see more matlab specific syntax as opposed to general coding logic.",7,student,5,,0,0,0,0,1,0,,,2
+96,,"[not completed]",,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
+97,,"[not completed]",5,,,,,4,,,5,4,5,4,5,5,5,1,0,1,0,0,,,,,,,,0,0,0,0,0,,,0
+98,,"2016-05-25 18:02:07",5,,,,,4,,,5,4,4,4,4,5,4,0,0,0,0,0,exercise,"send out the topics to be covered beforehand;  attendees introduce themselves briefly;  suggestions for further learning",6,,5,,2,0,0,0,0,1,"group e-mail","look like the workshops are primarily tailored for genetics.  Some coverage for imaging would be good too.",2
+99,,"2016-05-25 18:11:34",5,,,,,1,,,2,2,2,2,2,4,4,-1,0,1,0,-1,"the instructor is knowledgeable and helpful.","Perhaps more introduction for background and usefulness of the technique;  Attendees can introduce themselves and why coming for the topic;",6,,5,,2,0,0,0,0,1,"group e-mail",,2
+100,,"2016-05-26 10:22:43",6,,,,,,1,,5,2,5,5,5,5,4,0,0,0,0,0,,,4,,7,,4,0,0,0,1,0,,,2
+101,,"2016-05-26 10:28:51",6,,,,,,1,,5,5,5,5,5,5,5,0,0,0,0,0,"It was all great!","More info on website for packages to install in advance",2,,5,,4,0,0,0,1,0,,,2
+102,,"2016-05-26 10:59:52",6,,,,,,1,,5,5,5,5,5,5,5,0,0,0,0,0,"This is so useful!! I'm happy that documentation was presented so that we can refer back to this and explore this layer.",,5,,5,,2,0,0,0,1,0,,"My mind is blown!",2
+103,,"2016-05-26 11:08:22",6,,,,,,2,,2,2,4,3,2,5,4,0,0,1,0,-1,"The instructor and helper were knowledgeable and helpful.","Things were too fast. You look down to your screen for a couple of seconds and you're lost. A document with instructions would be useful.",5,,5,,2,0,0,0,1,0,,,2
+104,,"2016-05-26 11:32:47",6,,,,,,2,,4,5,3,3,4,4,5,0,0,0,0,0,,,2,,2,,0,0,0,0,1,0,,,2
+105,,"2016-05-26 14:47:29",6,,,,,,3,,5,5,5,5,5,5,5,0,0,0,0,0,"help and assistance quick and efficient. ","looks great to me",1,,2,,0,0,0,0,1,0,,n/a,2
+106,,"2016-05-26 16:53:02",6,,,,,,4,,4,4,4,5,5,5,5,0,0,0,-1,-1,"The instructors were very helpful and informative, they were keen for us to understand. ","Separate timings between instruction and practice; allow time to practice after going through it. I found it hard to keep up on my computer while listening and watching what she was doing. ",1,,2,,1,0,0,0,1,0,,,2
+107,,"2016-05-26 16:55:02",6,,,,,,4,,5,4,5,4,5,5,5,0,0,1,0,0,"The detail of the set up and different examples.","Next time maybe go a little slower and ask participants to email in specific questions ahead of time and have either the facilitator or helpers be prepared to do individual/more specific examples.",2,,2,,1,0,0,0,1,0,,,2
+108,,"2016-05-26 16:51:49",6,,,,,,4,,5,5,5,5,5,5,5,0,0,0,0,0,,,2,,2,,0,0,0,1,1,0,,,2
+109,,"2016-05-26 16:53:12",6,,,,,,4,,5,5,5,5,5,5,5,0,0,0,0,0,,,5,,2,,5,0,0,0,1,0,,,2
+110,,"2016-05-26 18:52:29",6,,,,,,4,,5,5,5,5,5,5,5,-1,-1,0,0,0,,,8,,2,,5,0,1,0,0,0,,,2
+111,,"2016-05-27 14:56:46",7,,,,,,,1,5,5,5,5,5,5,5,0,0,0,0,0,"Very comprehensive and educational. Extremely clear instructions","Nothing, very good seminar!",1,,2,,1,0,0,0,1,0,,,2
+112,,"[not completed]",1,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,,,0
