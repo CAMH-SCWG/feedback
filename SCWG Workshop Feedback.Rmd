@@ -1,7 +1,21 @@
 ---
 title: "SCWG workshop feedback"
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
+
+<style type="text/css">
+col { 
+  width: 30%;
+}
+tr:nth-child(even) {
+  background-color: #edf9ff;
+}
+h2 {
+  padding-top: 2em;
+}
+</style>
 
 ```{r PACKAGES, echo=FALSE, message=FALSE, warning=FALSE}
 #Load necessary packages
@@ -348,10 +362,13 @@ print(Plots_list_2[[5]])
 for (i in levels(feedback$workshop_name)) {
   workshop_feedback = subset(feedback, workshop_name == i)
   comments = workshop_feedback[,c("best", "improve", "comments")]
-  comments = data.frame(apply(comments, 2, FUN=function(x) gsub('\\s+', ' ', x)))
+  comments[,] = apply(comments, 1, function(x) as.character(gsub('\\s+', ' ', x)))
+  comments[comments == ""] <- NA
+  comments[comments == " "] <- NA
+  comments = comments[!apply(is.na(comments), 1, all), ] # remove rows that aren't all NA
+  comments[is.na(comments)] = "--"
   cat(paste("\n##", i,'\n'))
-  print(kable(comments, caption=i, row.names=F, format="markdown"))
-  
+  print(kable(comments, caption=i, row.names=F, format="markdown"))  
 }
 ```
 
