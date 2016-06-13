@@ -26,7 +26,7 @@ library(reshape2)
 opts_chunk$set(fig.width=12)
 
 # Read in data
-feedback <- read.csv('../SCWG_Workshop_Feedback/SCWG_Workshop_Evaluation_2016-06-04.csv', header=TRUE, sep=",") 
+feedback <- read.csv('SCWG_Workshop_Evaluation_2016-06-04.csv', header=TRUE, sep=",") 
 ```
 
 ```{r CLEANING, echo=FALSE, message=FALSE, warning=FALSE}
@@ -229,7 +229,7 @@ Plots_list_1[[i]] <- plot
 ctr <- ctr + 1
 }
 
-print(Plots_list_1[[1]], <br>, <br>, <br>)
+print(Plots_list_1[[1]])
 print(Plots_list_1[[2]])
 print(Plots_list_1[[3]])
 print(Plots_list_1[[4]])
