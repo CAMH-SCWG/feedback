@@ -26,14 +26,7 @@ library(reshape2)
 ```
 
 ```{r HELLO}
-# still working on cleaning this up - hopefully good enough for mtg to get a sense.
-
-# still to do:
-#         1. add total counts to top of the two 'across workshop' plots
-#         2. figure out how to label first 8 items with "strongly disagree..." without changing axis dimensions
-#         3. summarize who was in attendance (job title, number of years computing experience, etc)
-#         4. figure out how to make workshop comments look nicer
-#         5. anything else?
+# ADD SUMMARY OF NUMBER OF ATTENDEES, INSTRUCTORS, ETC
 ```
 
 ```{r SETUP, echo=FALSE, message=FALSE, warning=FALSE}
